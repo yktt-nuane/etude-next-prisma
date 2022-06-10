@@ -68,5 +68,5 @@ npm install next-auth@4 @next-auth/prisma-adapter
 DATABASE_URL=******************
 GITHUB_ID=******************
 GITHUB_SECRET=******************
-NEXTAUTH_URL=http://localhost:3000/api/auth
+NEXTAUTH_URL==******************
 ```
