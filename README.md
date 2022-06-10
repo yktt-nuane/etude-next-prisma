@@ -1,6 +1,6 @@
 # etude-next-prisma
 
-[test.app]([./CONTRIBUTING.md](https://yktt-nuane-etude-next-prisma.vercel.app/))
+[test.app](https://yktt-nuane-etude-next-prisma.vercel.app/)
 
 ## 勉強中
 
